@@ -1,1 +1,0 @@
-export default function Page(){ return (<h1>Healthy Crisps – Zaatar Crisps</h1>); }
