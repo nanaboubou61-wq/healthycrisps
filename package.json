@@ -1,6 +1,8 @@
 {
   "name": "healthycrisps",
   "version": "1.0.0",
+  "description": "force-redeploy",
+
   "private": true,
   "scripts": {
     "dev": "next dev",
